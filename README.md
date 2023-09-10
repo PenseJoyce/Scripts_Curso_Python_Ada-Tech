@@ -3,8 +3,7 @@
 Scripts referentes ao curso realizado pela plataforma 
 https://ada.tech/
 
-![image](https://github.com/PenseJoyce/Scripts_Curso_Python_Ada-Tech/assets/77034969/106af08c-b481-4c3b-8839-0a41379a6fd3)
-
+![image](https://github.com/PenseJoyce/Scripts_Curso_Python_Ada-Tech/assets/77034969/1f3faa22-d37d-4f2e-bd44-513539888603)
 
 Python é uma linguagem de propósito geral, ou seja, pode ser utilizada para as mais diversas aplicações. É gratuita Open Source e foi projetada tendo como um dos principais objetivos ser de fácil leitura e utilização.
 Nos scripts temos explicações referentes aos seguintes conceitos: 
